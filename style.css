@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table,th,tr,td{
+    border: 3px solid black;
+    margin: 10px;
+    padding: 15px;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: white;
+
+}
+th{
+    background-color: cadetblue;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+body{
+    background-color:#518FC9  ;
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+}
